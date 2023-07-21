@@ -1,0 +1,32 @@
+PHP- Hypertext Preprocessor
+opensource
+object-oriented scripting language
+server-side that manage dynamic content of web page
+developed by Rasmus Lerdorf in 1994 - lanched year in 1995
+embedded in HTML
+easy to learn
+
+why PHP?
+webpage create  pannurathugu dynamic content handles it easy
+database as well as session tracking for the website
+you can create sessions in PHP.
+cookies access and also set cookies.
+encrypt the data  and apply validation
+PHP supports serveral protocols such as HTTP,POP3,SNMP,LDAP,IMAP, and many more
+you can control the yser to access some pages of your website.
+as PHP is easy to install and set up
+PHP can handles the forms, as collect the data from user using forms, save it into data base. eg. Registation forms
+
+features of PHP
+open source
+embedded system
+all conrols
+loosely typed language 
+security language
+helpful PHP community.
+web server support
+database support
+platform indepentent
+familiarity with syntax
+good performance
+
